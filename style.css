@@ -8,21 +8,22 @@ p{
   font-family: sans-serif;
 }
 
-ul{
+
+.list ul{
   background-color: blue;
   display: flex;
   justify-content: space-around;
 }
 
-ul li{
+.list ul li{
   color: black;
   display: flex;
 }
 
-ul a{
+.list ul a{
   text-decoration: none;
 }
 
-ul a li:hover{
+.list ul a li:hover{
   color: aquamarine;
 }
