@@ -1,4 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 p{
   color: cornflowerblue;
   font-family: sans-serif;
+}
+
+ul{
+  background-color: blue;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul li{
+  color: black;
+  display: flex;
+}
+
+ul a{
+  text-decoration: none;
+}
+
+ul a li:hover{
+  color: aquamarine;
 }
