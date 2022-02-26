@@ -9,7 +9,7 @@ p{
 }
 
 .list ul{
-  background-color: red;
+  background-color: blueviolet;
   display: flex;
   justify-content: space-around;
   border: 1px solid darkblue;
